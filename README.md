@@ -25,7 +25,7 @@ Use the path of the VLCS folder as the value of VLCS_DATA_FOLDER in config.py.
 ## Datasets: TerraIncognita
 Download https://www.alipan.com/s/kLC6rrrxWTJ
 
-location_38 can't share. From https://storage.googleapis.com/public-datasets-lila/caltechcameratraps/eccv_18_all_images_sm.tar.gz to get location_38.
+location_38. https://pan.baidu.com/s/1pr3oOtLdHTIDFVCycGX_mQ Password: b4sq
 
 ## Datasets: DomainNet
 Download (cleaned version) https://ai.bu.edu/M3SDA/
