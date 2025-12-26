@@ -24,10 +24,7 @@ Use the path of the DomainNet folder as the value of DomainNet_DATA_FOLDER in co
 
 
 # Experiments
-```bash
-bash run_command.sh
-
-
+```bash run_command.sh```
 
 # Citation
 Please consider citing this paper if you find the code helpful.
