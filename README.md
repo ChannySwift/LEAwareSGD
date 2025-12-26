@@ -23,7 +23,9 @@ Split VLCS: https://www.alipan.com/s/bc4eZk494xM
 Use the path of the VLCS folder as the value of VLCS_DATA_FOLDER in config.py.
 
 ## Datasets: TerraIncognita
-Download
+Download https://www.alipan.com/s/kLC6rrrxWTJ
+
+location_38 can't share. From https://storage.googleapis.com/public-datasets-lila/caltechcameratraps/eccv_18_all_images_sm.tar.gz to get location_38.
 
 ## Datasets: DomainNet
 Download (cleaned version) https://ai.bu.edu/M3SDA/
@@ -31,7 +33,17 @@ Download (cleaned version) https://ai.bu.edu/M3SDA/
 Use the path of the DomainNet folder as the value of DomainNet_DATA_FOLDER in config.py.
 
 ## Datasets: Fundus
+We follow GDRBench https://github.com/chehx/DGDR/blob/main/GDRBench/README.md. 
 
+https://pan.baidu.com/s/1kprxasgXLT36uTzlhBZkKw   Password: uae9
+
+MESSIDOR and FGADR 
+
+Due to the license, these databases can not be further distributed.
+
+MESSIDOR: https://www.adcis.net/en/third-party/messidor2/
+
+FGADR: https://csyizhou.github.io/FGADR/
 
 # Experiments
 ```bash run_command.sh```
