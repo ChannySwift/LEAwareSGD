@@ -18,6 +18,7 @@ Download
 
 ## Datasets: DomainNet
 Download (cleaned version) https://ai.bu.edu/M3SDA/
+
 Use the path of the DomainNet folder as the value of DomainNet_DATA_FOLDER in config.py.
 
 ## Datasets: Fundus
@@ -29,7 +30,7 @@ Use the path of the DomainNet folder as the value of DomainNet_DATA_FOLDER in co
 # Citation
 Please consider citing this paper if you find the code helpful.
 
-```python
+```
 @inproceedings{zhang2025adversarial,
   title={Adversarial Data Augmentation for Single Domain Generalization via Lyapunov Exponent-Guided Optimization},
   author={Zhang, Zuyu and Chen, Ning and Liu, Yongshan and Zhang, Qinghua and Zhang, Xu},
@@ -37,4 +38,4 @@ Please consider citing this paper if you find the code helpful.
   pages={552--561},
   year={2025}
 }
-
+```
