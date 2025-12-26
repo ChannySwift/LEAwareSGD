@@ -24,7 +24,7 @@ Use the path of the DomainNet folder as the value of DomainNet_DATA_FOLDER in co
 
 
 # Experiments
-
+```bash
 bash run_command.sh
 
 
