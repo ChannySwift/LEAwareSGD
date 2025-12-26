@@ -23,9 +23,7 @@ Split VLCS: https://www.alipan.com/s/bc4eZk494xM
 Use the path of the VLCS folder as the value of VLCS_DATA_FOLDER in config.py.
 
 ## Datasets: TerraIncognita
-Download https://www.alipan.com/s/kLC6rrrxWTJ
-
-location_38. https://pan.baidu.com/s/1pr3oOtLdHTIDFVCycGX_mQ Password: b4sq
+Download https://pan.baidu.com/s/1cCmOJH1tiOyhR6inuSBzcg Password: aenx
 
 ## Datasets: DomainNet
 Download (cleaned version) https://ai.bu.edu/M3SDA/
