@@ -25,6 +25,8 @@ Use the path of the VLCS folder as the value of VLCS_DATA_FOLDER in config.py.
 ## Datasets: TerraIncognita
 Download https://pan.baidu.com/s/1cCmOJH1tiOyhR6inuSBzcg Password: aenx
 
+Use the path of the TerraIncognita folder as the value of TerraIncognita_DATA_FOLDER in config.py.
+
 ## Datasets: DomainNet
 Download (cleaned version) https://ai.bu.edu/M3SDA/
 
@@ -34,6 +36,8 @@ Use the path of the DomainNet folder as the value of DomainNet_DATA_FOLDER in co
 We follow GDRBench https://github.com/chehx/DGDR/blob/main/GDRBench/README.md. 
 
 https://pan.baidu.com/s/1kprxasgXLT36uTzlhBZkKw   Password: uae9
+
+Use the path of the Fundus folder as the value of Fundus_DATA_FOLDER in config.py.
 
 MESSIDOR and FGADR 
 
