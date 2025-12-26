@@ -26,6 +26,8 @@ Use the path of the DomainNet folder as the value of DomainNet_DATA_FOLDER in co
 # Experiments
 ```python
 bash run_command.sh
+```python
+
 
 # Citation
 Please consider citing this paper if you find the code helpful.
