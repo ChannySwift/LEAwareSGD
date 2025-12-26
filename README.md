@@ -32,7 +32,7 @@ bash run_command.sh
 # Citation
 Please consider citing this paper if you find the code helpful.
 
-
+```python
 @inproceedings{zhang2025adversarial,
   title={Adversarial Data Augmentation for Single Domain Generalization via Lyapunov Exponent-Guided Optimization},
   author={Zhang, Zuyu and Chen, Ning and Liu, Yongshan and Zhang, Qinghua and Zhang, Xu},
