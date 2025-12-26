@@ -1,5 +1,7 @@
 # Introduction
-This is the code for the ICCV 2025 Paper: Adversarial Data Augmentation for Single Domain Generalization via Lyapunov Exponent-Guided Optimization
+This is the code for the ICCV 2025 Paper: Adversarial Data Augmentation for Single Domain Generalization via Lyapunov Exponent-Guided Optimization 
+
+https://openaccess.thecvf.com/content/ICCV2025/papers/Zhang_Adversarial_Data_Augmentation_for_Single_Domain_Generalization_via_Lyapunov_Exponent-Guided_ICCV_2025_paper.pdf
 # Data
 ## Datasets:PACS
 Download the PACS dataset (h5py files pre-read) from https://drive.google.com/drive/folders/0B6x7gtvErXgfUU1WcGY5SzdwZVk?resourcekey=0-2fvpQY_QSyJf2uIECzqPuQ, 
@@ -35,7 +37,7 @@ Use the path of the DomainNet folder as the value of DomainNet_DATA_FOLDER in co
 ## Datasets: Fundus
 We follow GDRBench https://github.com/chehx/DGDR/blob/main/GDRBench/README.md. 
 
-https://pan.baidu.com/s/1kprxasgXLT36uTzlhBZkKw   Password: uae9
+https://pan.baidu.com/s/1kH2iVpy9anKnPZBQF8qAAQ?pwd=ii79 Password: ii79
 
 Use the path of the Fundus folder as the value of Fundus_DATA_FOLDER in config.py.
 
