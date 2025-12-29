@@ -1194,7 +1194,7 @@ class ModelLEAware(ModelBaseline):
     def configure(self, flags):
         super(ModelLEAware, self).configure(flags)
         self.dist_fn = torch.nn.MSELoss()
-        self.conloss = nn.SupConLoss()
+        self.conloss = SupConLoss()
         self.mean = torch.tensor([0.485, 0.456, 0.406])
         self.std = torch.tensor([0.229, 0.224, 0.225])
         self.image_transform = transforms.ToPILImage()
@@ -1478,6 +1478,7 @@ class ModelLEAware(ModelBaseline):
                 num_workers=flags.num_workers,
                 shuffle=True,
             )
+
 
 
 
